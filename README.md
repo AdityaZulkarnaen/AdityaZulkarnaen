@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaZulkarnaen)](https://github.com/AdityaZulkarnaen/github-readme-stats)
+<img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=AdityaZulkarnaen' />
 <!--
 **AdityaZulkarnaen/AdityaZulkarnaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
